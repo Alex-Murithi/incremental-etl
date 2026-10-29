@@ -1,6 +1,6 @@
 """
-Day 3 - Incremental ETL Pipeline
-Squad Python Specialization - Data Engineering
+Incremental ETL Pipeline
+Python Specialization - Data Engineering
 
 Run it twice in a row. The second run must change nothing.
 """
