@@ -1,0 +1,14 @@
+2026-10-29 08:15:06,344 INFO Run started
+2026-10-29 08:15:06,346 INFO Existing rows loaded: 20
+2026-10-29 08:15:06,351 INFO Batch BATCH-2026-10-21-01: 17 records read
+2026-10-29 08:15:06,352 WARNING Invalid record MP-50023: invalid amount_kes
+2026-10-29 08:15:06,352 WARNING Invalid record index_9: missing transaction_id
+2026-10-29 08:15:06,352 WARNING Invalid record MP-50026: negative amount_kes
+2026-10-29 08:15:06,353 INFO New: 6 | Updated: 3 | Duplicates: 5 | Invalid: 3
+2026-10-29 08:15:06,356 INFO Rows after load: 26
+2026-10-29 08:15:06,356 INFO Run finished in 0.01s
+2026-10-29 08:15:14,007 INFO Run started
+2026-10-29 08:15:14,030 INFO Existing rows loaded: 26
+2026-10-29 08:15:14,044 INFO Batch BATCH-2026-10-21-01 already processed - skipping
+2026-10-29 08:15:14,044 INFO Rows after load: 26
+2026-10-29 08:15:14,044 INFO Run finished in 0.04s
